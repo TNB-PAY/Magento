@@ -1,7 +1,7 @@
 
 # Magento
  <p align="center"> 
-	![video](https://user-images.githubusercontent.com/79472442/142871051-cf7a9cfe-cb89-4dd4-a6da-e72895bba7bb.gif)
+	![video](https://github.com/TNB-PAY/Magento/blob/main/video.gif)
 
 </p>
  <p align="center"> 
