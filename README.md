@@ -1,7 +1,7 @@
 
 # Magento
  <p align="center"> 
-	![video](https://user-images.githubusercontent.com/79472442/142871274-f153738b-6185-4d17-aba6-eebfb350ffc4.gif)
+	https://user-images.githubusercontent.com/79472442/142871274-f153738b-6185-4d17-aba6-eebfb350ffc4.gif
 
 	
 
