@@ -24,7 +24,7 @@ TNBPAY is a free and open-source Woo-commerce plugin which allows you to accept 
 
 
 ## Getting Started
-Download the plugin as a zip file [here](https://github.com/akandejaphet/TNBPay/archive/refs/tags/1.1.0.zip)
+Download the plugin as a zip file [here](https://github.com/TNB-PAY/Magento/archive/refs/tags/v1.0.0.zip)
 ## Documentation
 
 Check complete [Documentation](https://github.com/akandejaphet/TNBPay/blob/master/Documentation/TNBPAY%20Documentation.pdf) for details, installation guide, settings, etc.
