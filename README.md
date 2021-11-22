@@ -1,13 +1,8 @@
 
 # Magento
  <p align="center"> 
-	https://user-images.githubusercontent.com/79472442/142871274-f153738b-6185-4d17-aba6-eebfb350ffc4.gif
-
 	
-
 https://user-images.githubusercontent.com/79472442/142871387-07d8f48b-4598-4cc9-b065-ecae48069b79.mp4
-
-
 
 </p>
  <p align="center"> 
