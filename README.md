@@ -1,7 +1,7 @@
 
 # Magento
  <p align="center"> 
-	![video](https://github.com/TNB-PAY/Magento/blob/main/video.gif)
+	![video]("https://github.com/TNB-PAY/Magento/blob/main/video.gif")
 
 </p>
  <p align="center"> 
