@@ -1,7 +1,8 @@
 
 # Magento
  <p align="center"> 
-	<img src= "https://github.com/akandejaphet/TNBPay/blob/master/TNBPAY.jpg"> 
+	![video](https://user-images.githubusercontent.com/79472442/142871051-cf7a9cfe-cb89-4dd4-a6da-e72895bba7bb.gif)
+
 </p>
  <p align="center"> 
 	<b> Accept TNBC Payment on your store</b> <br>
