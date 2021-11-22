@@ -1,0 +1,58 @@
+<div class="tnbpay-popup" id="tnbpay-popup" style="display: none">
+    <div role="alert" class="messages tnb-success" style="display: none">
+        <div class="message-success success message" data-ui-id="message-success">
+            <div><!-- ko i18n: 'Purchase completed successfully'--><!-- /ko --></div>
+        </div>
+    </div>
+    <div role="alert" class="messages tnb-error" style="display: none">
+        <div class="message-error error message" data-ui-id="message-error">
+            <div><!-- ko i18n: 'Purchase not successful'--><!-- /ko --></div>
+        </div>
+    </div>
+    <span class="tnb_grand_total"></span>
+    <div class="span-wrap">
+        <span><!-- ko i18n: '1TNB = '--><!-- /ko --></span>
+        <span data-bind="text: tnbRates"></span>
+    </div>
+
+    <div class="tnb-wrap-1">
+        <p><!-- ko i18n: 'Send the above amount to the account below using the memo as description.'--><!-- /ko --></p>
+        <div class="tnb-subwrap">
+            <div class="tnb-subwrap1">
+                <h2>Account</h2>
+                <div class="tnb-subwrap2">
+                    <p id="address_copied" data-bind="text: tnbAddress"></p>
+                    <button data-bind="click: copyClipboard">
+                        <img data-bind="attr: {
+                                        alt: $t('Click to Copy'),
+                                        title: $t('Click to Copy'),
+                                        src: copyIcon,
+                                        }"
+                             class="copy-img"/>
+                    </button>
+                </div>
+
+            </div>
+            <div class="tnb-subwrap1">
+                <div class="tnb-subwrap2">
+                    <h2>Memo</h2>
+                    <div class="tnb-subwrap2">
+                        <p id="address_memo" class="tnb_memo"></p>
+                        <button data-bind="click: copyClipboard1">
+                            <img data-bind="attr: {
+                                            alt: $t('Click to Copy'),
+                                            title: $t('Click to Copy'),
+                                            src: copyIcon,
+                                            }"
+                                 class="copy-img"/>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <form id="tnb-verification-form" method="post" action="#">
+        <input type="hidden" id="verified" value="0"/>
+    </form>
+</div>

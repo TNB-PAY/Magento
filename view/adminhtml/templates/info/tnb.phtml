@@ -1,0 +1,13 @@
+<?php
+/**
+ * @var $block \TNB\Pay\Block\Info\Tnb
+ */
+$paymentTitle = $block->getMethod()->getConfigData('title', $block->getInfo()->getOrder()->getStoreId());
+?>
+<div class="order-payment-method-name"><?= $block->escapeHtml($paymentTitle) ?></div>
+<table class="data-table admin__table-secondary">
+    <tr>
+        <th><?= $block->escapeHtml(__('Memo')) ?>:</th>
+        <td><?= $block->escapeHtml($block->getMemo()) ?></td>
+    </tr>
+</table>

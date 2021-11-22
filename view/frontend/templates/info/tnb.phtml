@@ -1,0 +1,12 @@
+<?php
+/**
+ * @var $block \TNB\Pay\Block\Info\Tnb
+ */
+?>
+<dl class="payment-method tnb pay">
+    <dt class="title"><?= $block->escapeHtml($block->getMethod()->getTitle()) ?></dt>
+    <dd class="content">
+        <strong><?= $block->escapeHtml(__('Memo')) ?></strong>
+        <span class="number"><?= $block->escapeHtml($block->getMemo()) ?></span>
+    </dd>
+</dl>

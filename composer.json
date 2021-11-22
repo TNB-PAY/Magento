@@ -1,0 +1,22 @@
+{
+    "name": "tnb/module-pay",
+    "description": "TNB Pay Module",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "MageArmy",
+            "email": "team.magearmy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "TNB\\Pay\\": ""
+        }
+    }
+}

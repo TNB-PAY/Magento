@@ -1,0 +1,99 @@
+
+.tnb-pay-popup{
+    .modal-header{
+        background: red;
+        color: white;
+        h1{
+            font-weight: 600;
+            border-bottom: none;
+        }
+        button.action-close{
+            &:before{
+                font-size: 15px;
+                font-weight: 600;
+                color: #ffffff;
+            }
+        }
+
+    }
+    .modal-content{
+        padding: 10px 0 0 0;
+    }
+}
+#tnbpay-popup {
+    text-align: center;
+    padding: 15px 0 0 0;
+
+    .tnb_grand_total{
+        display: block;
+        font-size: 26px;
+        font-weight: 600;
+    }
+    .span-wrap{
+        font-size: 23px;
+    }
+    .tnb-wrap-1{
+        background: #eeeeee;
+        padding: 15px 20px;
+        margin-top: 20px;
+        p{
+            font-size: 22px;
+        }
+        .tnb-subwrap{
+            background: #ffffff;
+            padding: 15px;
+            margin-top: 20px;
+            h2{
+                margin: 0;
+                font-weight: 600;
+            }
+            .tnb-subwrap2{
+                position: relative;
+                p{
+                    font-size: 16px;
+                    display: block;
+                    padding: 5px 40px 5px 10px;
+                    background: #eeeeee;
+                    margin: 15px 0;
+                    overflow: hidden;
+                }
+                button{
+                    border: none;
+                    padding: 0 5px ;
+                    position: absolute;
+                    right: 0;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    box-shadow: none;
+                    z-index: 10;
+                }
+            }
+        }
+    }
+}
+.modal-popup.tnb-pay-popup.modal-slide{
+    .modal-footer{
+        text-align: center;
+    }
+    .action.primary{
+        background: red;
+        border-color: red;
+        font-size: 25px;
+        padding: 15px 25px;
+        border-radius: 25px;
+    }
+}
+.checkout-index-index {
+    .modal-popup {
+        &.tnb-pay-popup{
+            .modal-inner-wrap{
+                margin-left: 0;
+                transform: translateX(-50%);
+                width: auto;
+                max-width: 600px;
+                left: 50%;
+            }
+        }
+    }
+}
+
