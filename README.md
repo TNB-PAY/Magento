@@ -1,5 +1,5 @@
 
-# TNBPAY
+# Magento
  <p align="center"> 
 	<img src= "https://github.com/akandejaphet/TNBPay/blob/master/TNBPAY.jpg"> 
 </p>
