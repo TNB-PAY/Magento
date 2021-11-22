@@ -5,7 +5,7 @@
 </p>
  <p align="center"> 
 	<b> Accept TNBC Payment on your store</b> <br>
-	 <a href="https://github.com/akandejaphet/TNBPay/blob/master/Documentation/demo.gif">View demo </a>
+	 <a href="https://github.com/TNB-PAY/Magento/blob/main/video.gif">View demo </a>
 </p>
 
 	
@@ -22,8 +22,7 @@ TNBPAY is a free and open-source Woo-commerce plugin which allows you to accept 
 
 
 ## Getting Started
-Download the plugin as a zip file [here](https://github.com/akandejaphet/TNBPay/archive/refs/tags/1.1.0.zip) then install on Wordpress. Please check [Documentation](https://github.com/akandejaphet/TNBPay/blob/master/Documentation/TNBPAY%20Documentation.pdf) for full installation procedure
-
+Download the plugin as a zip file [here](https://github.com/akandejaphet/TNBPay/archive/refs/tags/1.1.0.zip)
 ## Documentation
 
 Check complete [Documentation](https://github.com/akandejaphet/TNBPay/blob/master/Documentation/TNBPAY%20Documentation.pdf) for details, installation guide, settings, etc.
