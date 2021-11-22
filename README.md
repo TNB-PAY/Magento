@@ -5,6 +5,10 @@
 
 	
 
+https://user-images.githubusercontent.com/79472442/142871387-07d8f48b-4598-4cc9-b065-ecae48069b79.mp4
+
+
+
 </p>
  <p align="center"> 
 	<b> Accept TNBC Payment on your store</b> <br>
